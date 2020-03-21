@@ -1,3 +1,4 @@
+你好 我注册好了
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lhwyh/lhz/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
